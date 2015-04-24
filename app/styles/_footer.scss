@@ -1,0 +1,32 @@
+footer {
+	clear: both;
+	position: relative;
+	min-height: 70px;
+	padding-top: 20px;
+	border-top: 2px solid #E5E5E5;
+	color: #AAA;
+}
+footer p {
+	line-height: 1.5em;
+	font-size: .75em;
+}
+footer .social {
+	position: absolute;
+	top: 20px;
+	right: 0;
+}
+footer .social li {
+	float: left;
+	display: inline;
+	margin-left: 5px;
+}
+footer .social li a {
+	display: block;
+	width: 32px;
+	height: 32px;
+	text-indent: -999em;
+}
+
+footer .twitter a { background: url(../img/icon-twitter.png) no-repeat 50% 1px; }
+footer .facebook a { background: url(../img/icon-facebook.png) no-repeat 50% 0; }
+footer .rss a { background: url(../img/icon-rss.png) no-repeat 50% 0; }

@@ -1,0 +1,24 @@
+nav {
+	position: absolute;
+	top: 158px;
+	left: 0;
+	width: 160px;
+}
+nav li {
+	display: block;
+	margin-bottom: 18px;
+	line-height: 1.3em;
+}
+
+nav a {
+	display: block;
+	height: 28px;
+	padding: 4px 0 0 44px;
+	font-style: italic;
+	color: #222;
+}
+nav li a {
+	background-position: 0 65%;
+	background-repeat: no-repeat;
+}
+nav li a:hover { background-position: 5px 65%; }

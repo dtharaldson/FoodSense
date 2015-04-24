@@ -1,0 +1,18 @@
+#newsletter {
+	overflow: hidden;
+	clear: both;
+	width: 100%;
+	min-height: 48px;
+	margin-bottom: 29px;
+	line-height: 1em;
+ 	border-top: 1px dashed #E5E5E5;
+ 	border-bottom: 1px dashed #E5E5E5;
+ 	background: url(../img/icon-mailinglist-32.png) no-repeat 18px 7px;
+}
+#newsletter p {
+	float: left;
+	width: 49%;
+	padding: 7px 24px 0 66px;
+	font-size: .75em;
+	font-style: italic;
+}

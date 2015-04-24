@@ -1,0 +1,20 @@
+header {
+	float: left;
+	width: 160px;
+	margin-bottom: 25px;
+}
+h1#branding {
+	display: block;
+	width: 120px;
+	height: 120px;
+	text-indent: -999em;
+	background: url(../img/food-sense.png) no-repeat 0 0;
+}
+h1#branding a {
+	display: block;
+	width: 120px;
+	height: 120px;
+}
+h1#branding:hover {
+	opacity: .85;
+}
